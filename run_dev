@@ -1,0 +1,5 @@
+#!/bin/bash
+export FLASK_ENV=development
+flask run
+
+#https://flask.palletsprojects.com/en/1.1.x/config/
